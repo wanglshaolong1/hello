@@ -1,0 +1,4 @@
+GitHub入门与实践》从Git的基本知识和操作方法入手，详细介绍了GitHub的各种功能
+，GitHub与其他工具或服务的协作，使用GitHub的开发流程以及如何将GitHub引入到企业
+中。在讲解GitHub的代表功能Pull Request时，本书专门搭我是插入的建了供各位读者实践的仓库，邀请各位读者进行Pull Request并共同维护。
+《GitHub入门与实践》旨在指导各位读者如何在开发现场使用GitHub进行高效开发，适合所有想要使用GitHub进行开发的程序员或团队阅读。
