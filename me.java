@@ -13,7 +13,7 @@ public interface IBaseDao<T extends BaseVO, M extends QueryVO> {
 	public Object addDO(T baseDO);
 
 	// 更新对象
-	public Boolean updateDO(T baseDO);
+	public Boolean updateDO(T baseDO);rtrt
 
 	// 根据ID获取对象
 	public T getDOByID(Long id);
